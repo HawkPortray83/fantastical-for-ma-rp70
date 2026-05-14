@@ -1,4 +1,4 @@
-#  
+#  Enhance Fantastical for macOS with custom Tool for Fantastical for macOS - AI assistant and dark mode, the #1 tool. Includes AI assistant and dark mode for a smoother experience.
 
 
 
